@@ -1,11 +1,11 @@
-OpenGLTutorial-part-2
+OpenGLTutorial-part-4
 =====================
 
-Companion project to the second article in my OpenGL tutorial series
+Companion project to the fourth article in my OpenGL tutorial series
 
 The article explaining this code is here:
 
-http://www.200monkeys.com/index.php/2013/01/03/opengl-es-2-0-tutorial-encapsulation-and-quads/
+http://www.200monkeys.com/index.php/2013/02/12/opengl-es-2-0-tutorial-textures/
 
 This is free and unencumbered software released into the public domain.
 
